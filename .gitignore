@@ -22,7 +22,6 @@ bin/
 /nbdist/
 /.nb-gradle/
 .idea/workspace.xml
-.idea/workspace.xml
 ### VS Code ###
 .vscode/
 
